@@ -1,0 +1,57 @@
+{
+  "animales": [
+    "gato", "perro", "león", "tigre", "elefante", "jirafa", "zebra", "hipopótamo",
+    "rinoceronte", "oso", "lobo", "zorro", "conejo", "ardilla", "ratón", "caballo",
+    "vaca", "cerdo", "oveja", "pollo", "pato", "ganso", "águila", "halcón", "búho",
+    "serpiente", "lagarto", "tortuga", "rana", "pez", "tiburón", "ballena", "delfín"
+  ],
+  "comida": [
+    "pizza", "hamburguesa", "tacos", "sushi", "pasta", "ensalada", "pollo",
+    "pescado", "arroz", "pan", "queso", "chocolate", "helado", "fruta", "manzana",
+    "plátano", "naranja", "fresa", "uva", "sandía", "piña", "mango", "papaya",
+    "zanahoria", "brócoli", "lechuga", "tomate", "cebolla", "ajo", "papa", "maíz"
+  ],
+  "objetos": [
+    "mesa", "silla", "cama", "televisor", "computadora", "teléfono", "libro",
+    "pluma", "papel", "botella", "vaso", "plato", "cuchara", "tenedor", "cuchillo",
+    "reloj", "lámpara", "espejo", "ventana", "puerta", "llave", "bolsa", "zapato",
+    "camisa", "pantalón", "sombrero", "gafas", "collar", "anillo", "pulsera"
+  ],
+  "profesiones": [
+    "doctor", "maestro", "ingeniero", "abogado", "chef", "artista", "músico",
+    "escritor", "programador", "piloto", "bombero", "policía", "enfermero", "dentista",
+    "veterinario", "arquitecto", "contador", "mecánico", "electricista", "plomero",
+    "jardinero", "carpintero", "pintor", "fotógrafo", "periodista", "actor", "cantante"
+  ],
+  "países": [
+    "México", "España", "Francia", "Italia", "Japón", "China", "Brasil",
+    "Argentina", "Colombia", "Perú", "Chile", "Canadá", "Australia", "Alemania",
+    "Reino Unido", "Estados Unidos", "Rusia", "India", "Corea del Sur", "Tailandia",
+    "Egipto", "Sudáfrica", "Marruecos", "Grecia", "Turquía", "Portugal", "Suecia"
+  ],
+  "colores": [
+    "rojo", "azul", "verde", "amarillo", "naranja", "morado", "rosa", "negro",
+    "blanco", "gris", "marrón", "turquesa", "violeta", "dorado", "plateado",
+    "beige", "coral", "magenta", "cian", "índigo", "escarlata", "carmesí", "lavanda"
+  ],
+  "deportes": [
+    "fútbol", "baloncesto", "tenis", "natación", "béisbol", "voleibol", "golf",
+    "atletismo", "boxeo", "ciclismo", "gimnasia", "hockey", "rugby", "esquí",
+    "snowboard", "surf", "karate", "judo", "taekwondo", "escalada", "ping pong"
+  ],
+  "instrumentos": [
+    "guitarra", "piano", "violín", "batería", "flauta", "trompeta", "saxofón",
+    "clarinete", "violonchelo", "contrabajo", "armónica", "acordeón", "arpa",
+    "xilófono", "maracas", "tambor", "triángulo", "pandereta", "castañuelas"
+  ],
+  "emociones": [
+    "felicidad", "tristeza", "enojo", "miedo", "sorpresa", "disgusto", "amor",
+    "odio", "alegría", "melancolía", "ansiedad", "calma", "emoción", "aburrimiento",
+    "nostalgia", "esperanza", "desesperación", "confianza", "desconfianza", "orgullo"
+  ],
+  "transporte": [
+    "coche", "autobús", "tren", "avión", "barco", "bicicleta", "motocicleta",
+    "helicóptero", "submarino", "taxi", "metro", "tranvía", "camión", "ambulancia",
+    "camioneta", "scooter", "patineta", "globo aerostático", "cohete", "teleférico"
+  ]
+}
